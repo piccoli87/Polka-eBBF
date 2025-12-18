@@ -1,0 +1,2 @@
+bpftool map update name ip_to_rtag_h2 key hex 0A 00 01 01 value hex 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 03 82 4B
+bpftool map update name tag_fr_h2 key hex 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 03 82 48 value hex 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 03 82 4B
