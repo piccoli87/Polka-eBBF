@@ -1,5 +1,5 @@
 # polka-eBPF
-![Setup de testes](figures/Polka-eBPF.jpg)
+![Setup de testes](figures/Polka-eBPF multpath.jpg)
 ## Building environment for eBPF:
 ### 1. To run, simply:
 ```
